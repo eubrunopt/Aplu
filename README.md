@@ -24,4 +24,4 @@ The application still has some small bugs, which do not complie the user experie
 
 
 #### The project can be found online at
-Currently the app is not on playstore.
+Google Play Store | https://play.google.com/store/apps/details?id=com.eubruno.aplu
